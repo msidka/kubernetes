@@ -2,8 +2,8 @@
 <img src="https://github.com/saifulislam88/docker/assets/68442870/09012688-7671-4f50-8208-dedad3b66353" alt="Signature" width="400"/>
 
 
+![image](https://github.com/user-attachments/assets/ecf83e54-11d7-402d-af23-0c09ce96d61c)
 
-![image](https://github.com/saifulislam88/kubernetes/assets/68442870/e4214f01-e365-484c-9a5a-ca5112c88314)
 
 **MetalLB uses standard address discovery and routing protocols to advertise the external IP of a service on rest of your network. MetalLB can be configured to operate in `Layer-2 Mode` or `BGP Mode`.**
 One of the toughest aspects of learning Kubernetes is wrapping your mind around how services and internal containers are exposed to the outside world. There are a number of ways to do this and each has pros and cons, but there are definitely ways that are recommended for production environments. Using a Kubernetes Loadbalancer is one of those. MetalLB is a very popular Kubernetes load balancer that many are using in their Kubernetes environments. Let’s take a look at the Kubernetes install MetalLB load balancer process and see what steps are involved to install the solution and test it out.
